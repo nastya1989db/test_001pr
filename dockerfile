@@ -1,8 +1,8 @@
 # version JDK
-FROM openjdk:11-jre-slim
+FROM openjdk:21-jre-slim
 
 # workdir
-WORKDIR /app
+WORKDIR /app/FamilyTree
 
 # copy jar file
 COPY target/my-app.jar /app/app.jar

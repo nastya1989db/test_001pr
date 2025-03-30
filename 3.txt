@@ -1,4 +1,1 @@
-qwertyui
-asdfghjk
-xhjk
-pohgfdfghnk
+fixed code 3.txt
